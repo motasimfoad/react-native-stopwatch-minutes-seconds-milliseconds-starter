@@ -18,3 +18,12 @@ Installation :
 6 - npm install moment --save </br>
 7 - npm install</br>
 8 - react-native run-ios or react-native run-android
+
+
+<br><br><br>
+Preview : 
+<br>
+<br>
+
+<a href="https://ibb.co/nhJHFa"><img src="https://image.ibb.co/hCFa1F/Screen_Shot_2017_03_17_at_5_20_37_PM.png" alt="Screen_Shot_2017_03_17_at_5_20_37_PM" border="0"></a>
+<a href="https://ibb.co/nL7oMF"><img src="https://image.ibb.co/npFxFa/Screen_Shot_2017_03_17_at_5_20_52_PM.png" alt="Screen_Shot_2017_03_17_at_5_20_52_PM" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>cloud hosting images</a><br />
