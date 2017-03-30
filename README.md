@@ -1,4 +1,4 @@
-# react-native-stopwatch-minutes-seconds-milliseconds-starter
+# react-native-stopwatch-minutes-seconds-milliseconds-demoapp
 React-native stopwatch starter
 
 Includes : 
@@ -12,7 +12,7 @@ Installation :
 1 - create a React-native project  </br>
       react-native init StopWatch </br>
 2 - cd StopWatch</br>
-3 - Download the index.ios /android and replace it with this one.</br>
+3 - Download the index.ios/android and replace it with this one.</br>
 4 - Download and replace package.json file</br>
 5 - npm install minutes-seconds-milliseconds —save</br>
 6 - npm install moment --save </br>
