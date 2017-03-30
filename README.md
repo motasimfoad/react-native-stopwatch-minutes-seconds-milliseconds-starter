@@ -1,5 +1,5 @@
 # react-native-stopwatch-minutes-seconds-milliseconds-demoapp
-React-native stopwatch starter
+React-native stopwatch demoapp
 
 Includes : 
 </br>
